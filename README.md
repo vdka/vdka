@@ -25,36 +25,3 @@ I am an iOS developer who is passionate about building great experiences and sol
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
-## Employment
-
-### Propell
-
-Working for [Propell](https://propellme.com.au) for the past 7 years I have developed a range of financial software solutions. My work often involved end to end app development, from idea through design and implmentation. When I began at Propell I worked in a small team as a junior developer, quickly growing my capabilities to the point where as the business changed I became the single developer responsible for the businesses entire iOS application. I would work alongside our Android and Web developers to ensure a consistent experience across Propell's range of products. Through multiple redesigns and a pair of rebrands I would help design, develop, release and explore new features for our apps. This often involed quickly building small prototypes for contained features within our product suite such as pay on phone, business analytics and internal tools.
-
-### Griffith University
-
-I have worked with researchers at Griffith University to develop a model for providing solutions for optimising agricultural water management. This work involved implementing an Evolutionary Algorithm to find the most ideal tradeoffs for crops, taking into consideration costs, growth constraints, enviromental concerns and a variety of other factors. I worked alongside three co-authors, largely independently, to implement and tailor an algorithm to suit our specific dataset and deliver the best possible solutions.
-
-## Self Development
-### Cocoaheads
-
-From Jan 2016 I organized Cocoaheads Brisbane, a meetup focused on development within the Apple ecosystem. Organizing this meetup involved coordinating with local developers, hosting, helping develop and giving dozens of technical talks.
-
-### Open Source
-
-During my time working with iOS and Swift I have made several contributions to open source projects on Github. I have also began multiple small projects ranging from Swift Packages and low level C graphics rendering libraries to an entire low level programming language designed and built from the ground up on top of LLVM. These are all available on Github as an example of my work.
-
-<!--
-**vdka/vdka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
